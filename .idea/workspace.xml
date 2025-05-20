@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d6a284d-73d6-40c2-83cf-6e46a32bbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/Python Introduction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/Python Introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Introduction/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Introduction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747737890104</updated>
       <workItem from="1747737890867" duration="124000" />
-      <workItem from="1747738044348" duration="546000" />
+      <workItem from="1747738044348" duration="899000" />
     </task>
     <servers />
   </component>
