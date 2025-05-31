@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4d6a284d-73d6-40c2-83cf-6e46a32bbf20" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Python Introduction-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140+ Basic Python Programs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/python-hello-world.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <workItem from="1747983009612" duration="266000" />
       <workItem from="1748407401945" duration="944000" />
       <workItem from="1748721484325" duration="9000" />
-      <workItem from="1748722251410" duration="2540000" />
+      <workItem from="1748722251410" duration="3637000" />
     </task>
     <servers />
   </component>
