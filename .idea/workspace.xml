@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6a284d-73d6-40c2-83cf-6e46a32bbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner's Guide to Python/Python Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner's Guide to Python/Python Introduction.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="4d6a284d-73d6-40c2-83cf-6e46a32bbf20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <workItem from="1748407401945" duration="944000" />
       <workItem from="1748721484325" duration="9000" />
       <workItem from="1748722251410" duration="5231000" />
-      <workItem from="1748861771273" duration="2410000" />
+      <workItem from="1748861771273" duration="3099000" />
     </task>
     <servers />
   </component>
