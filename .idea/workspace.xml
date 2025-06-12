@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d6a284d-73d6-40c2-83cf-6e46a32bbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner's Guide/1.Comments and Variables.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner's Guide to Python/140+ Basic Python Programs.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner's Guide to Python/Python Introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy (Numerical Python)/Advance NumPy Operations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy (Numerical Python)/Array Operations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy (Numerical Python)/Introduction to NumPy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy (Numerical Python)/NumPy Additional Topics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Analysis and Aggregation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Cleaning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Import and Export.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Visualization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Dataframe Operations and Manipulations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Introduction to Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner's Guide/Comments and Variables.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +81,7 @@
       <workItem from="1749096320696" duration="2883000" />
       <workItem from="1749389972025" duration="1550000" />
       <workItem from="1749666853816" duration="1737000" />
+      <workItem from="1749697831016" duration="4924000" />
     </task>
     <servers />
   </component>
